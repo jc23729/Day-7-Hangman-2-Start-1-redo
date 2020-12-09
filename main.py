@@ -1,5 +1,5 @@
 #Step 2
-
+#### BREAKS DOWN LOGIC STRARTING AT 7 MINS
 import random
 word_list = ["aardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
